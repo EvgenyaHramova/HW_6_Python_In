@@ -34,3 +34,5 @@ date_int = list(map(int, date))
 calendar(date_int)
 
 
+if __name__ == '__main__':
+    print('Я не поняла, как это работает и для чего нужно. Сорри.....')
